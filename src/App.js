@@ -1,5 +1,7 @@
 import React, { Component } from 'react';
 import AddJob from './addJob'
+import AcceptJob from './accept'
+import {BrowserRouter as router}  from 'react-router-dom'
 
 class App extends Component {
   render() {
